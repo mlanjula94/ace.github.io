@@ -21,5 +21,5 @@ deadpool = media.Movie("Deadpool",
 #deadpool.show_trailer()
 
 movies = [toy_story, avatar, deadpool]
-#fresh_tomatoes.open_movies_page(movies)
-print(media.Movie.__module__)
+index.open_movies_page(movies)
+#print(media.Movie.__module__)
